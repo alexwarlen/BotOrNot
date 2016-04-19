@@ -12,6 +12,8 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
+        int successfulGuesses = 0;
+        int games = 0;
         MathGame game = new MathGame();
 
         Bot myBot = new Bot("My Bot");
@@ -19,6 +21,7 @@ public class Main {
         for (int i = 0; i < 10; i++){
             int play = (int)(Math.random() * 2);
 
+            games++;
             if (play == 0){
 
                 System.out.println("Playing as Human:\n");
@@ -31,8 +34,10 @@ public class Main {
                 }
                 else {
                     botOrNot = "Human";
+                    successfulGuesses++;
                 }
                 System.out.println("We think that you are a: " + botOrNot + "\n\n");
+
             }
             else {
                 System.out.println("Playing as Bot:\n");
@@ -45,14 +50,18 @@ public class Main {
                 }
                 else {
                     botOrNot = "Bot";
+                    successfulGuesses++;
                 }
 
                 System.out.println("We think that you are a: " + botOrNot+ "\n\n");
+
             }
         }
 
-
-        System.out.println(game.getDifference());
+        double successRate = (double)(successfulGuesses/games);
+        successRate = successRate*100;
+        System.out.println("Total success rate out of " + games + " games: "+successRate + "%");
+        //System.out.println(game.getDifference());
         System.exit(0);
         return;
     }
@@ -73,6 +82,9 @@ public class Main {
         }
 
         if (difference > 2){
+            return true;
+        }
+        if (moves.size() >= 10){
             return true;
         }
 
