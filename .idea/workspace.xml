@@ -3,108 +3,108 @@
   <component name="ChangeListManager">
     <list default="true" id="9126e983-a207-4769-8233-1b5f5d7f0839" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
-      <change type="DELETED" beforePath="$USER_HOME$/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/art/icons.ai" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/128-lightbulb.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/16-lightbulb.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/background.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/fonts/Lato Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/fonts/Varela Round.woff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/authenticate.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/connect.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/disable.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/disconnect.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/go.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/push.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/register.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/setup.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/trash.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/wait.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/cloud.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/devices.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/protocol.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/runnable.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/sha256.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/text.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/box/public/window.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GBL" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GBS" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GTL" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GTO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GTS" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/PCB FInal Design/Team Scio Final Rev 3.brd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/PCB FInal Design/Team Scio Final Rev 3.sch" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/Team Scio bill of materials.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/eagle-file.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/eagle/pcb_logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_GA1A12S202.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_GA1A12S202.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_MAX31855.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_MAX31855.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC revB.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC revC.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC revD.pdf" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC.dwg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/MAX31855.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/adafruit - ds1307.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/adafruit-tsl2591.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/arduino-uno-schematic.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/daqOverview.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/daqOverview.vsd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/uC_DataSheet.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/uno_pinout.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/EEPROMex.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/EEPROMex.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Experiment.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Experiment.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Memory.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Memory.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Port.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Port.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/RTClib.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/RTClib.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Sensor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Sensor.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/TSL2561.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/TSL2561.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/miniSDI_12.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/miniSDI_12.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/dht22BT.ino" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/DHT.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/DHT.h" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/examples/DHTtester/DHTtester.ino" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/RTClib.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Memory.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Team Scio bill of materials.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC revC.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/cloud.js" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/server/composer.phar" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/server/config/local.sample.yml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/server/src/Uplabs/DatabaseManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/save.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/PCB FInal Design/Team Scio Final Rev 3.brd" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/support/install/uplabs-scio.conf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/server/views/addUser.twig" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/uno_pinout.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/daqOverview.vsd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/TSL2561.cpp" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/views/index.twig" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/server/www/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/server/www/128-lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_GA1A12S202.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Port.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/server/config/local.sample.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_MAX31855.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/register.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Port.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/trash.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GTO" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/daqOverview.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/RTClib.cpp" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/www/addUserController.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/connect.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Experiment.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/add.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/miniSDI_12.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_MAX31855.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/server/www/128-lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/runnable.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC revD.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/adafruit - ds1307.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/push.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Memory.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/fonts/Varela Round.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Sensor.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/16-lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/remove.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GTS" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GBL" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Adafruit_GA1A12S202.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/go.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/server/composer.phar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/MAX31855.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/server/views/addUser.twig" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/authenticate.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/TSL2561.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/EEPROMex.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/background.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/EEPROMex.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/window.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Sensor.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/dht22BT.ino" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/www/controllers.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/art/icons.ai" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/miniSDI_12.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/adafruit-tsl2591.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Experiment.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC revB.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/devices.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GTL" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/uC_DataSheet.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/fonts/Lato Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/sha256.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/DHT.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/examples/DHTtester/DHTtester.ino" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/DAQ SCHEMATIC.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/eagle-file.md" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/server/www/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Bots_448_Lemon17_Warlen17/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/Bots_448_Lemon17_Warlen17/com/company/Main.class" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/setup.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/128-lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/disconnect.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/Final Gerber Output/Team Scio Final Rev 3.GBS" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/DAQ/Documentation/arduino-uno-schematic.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/server/src/Uplabs/DatabaseManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/server/www/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/pcb_logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/js/protocol.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/eagle/PCB FInal Design/Team Scio Final Rev 3.sch" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/sensors/dht22BT/libraries/DHT/DHT.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/box/public/icons/disable.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Bots_448_Lemon17_Warlen17/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/Bots_448_Lemon17_Warlen17/com/company/Main.class" />
     </list>
     <ignored path="Bots_448_Lemon17_Warlen17.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,7 +129,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
+            <state relative-caret-position="1305">
               <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -489,12 +489,10 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12895663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27667058" sideWeight="0.37361112" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27667058" sideWeight="0.6263889" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21111111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -502,13 +500,15 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985932" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12895663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27667058" sideWeight="0.6263889" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985932" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -533,6 +533,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MathGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -813,7 +841,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
+        <state relative-caret-position="1305">
           <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
